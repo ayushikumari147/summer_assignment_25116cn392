@@ -1,6 +1,5 @@
 /*calulate the sum of n 
 natural number*/ 
-
 #include <stdio.h>
 int main(){
    int n;
